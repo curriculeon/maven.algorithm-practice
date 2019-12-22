@@ -5,6 +5,6 @@ package com.github.curriculeon;
  */
 public class ExcelColumnNameConverter {
     public Integer toNumber(String columnName) {
- 
+
     }
 }
